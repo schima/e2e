@@ -18,9 +18,9 @@
 
 ### Steps to run the test suite. 
 * Make sure you have Cypress compatible browser installed on your computer. Browsers listed [here](https://docs.cypress.io/guides/guides/launching-browsers#Browsers).
-* Clone the [repo]() to your local machine. 
+* Backup your existing `json` files in the project folder, and then clone the [repo](https://github.com/schima/e2e) to the same location as your `node_modules` folder of Cypress framework.
 * In the CLI, navigate to root of the project folder and run the following command to start the Cypress Server.
 *   `./node_modules/.bin/cypress open`
-*   This should invoke Cypress application to the frontend, and along with other sample project example files, you will see file called `youtube.spec.js` file.
+*   This should invoke Cypress application to the frontend, and you will see file called `youtube.spec.js` file.
 *   click on this `youtube.spec.js` file so Cypress can invoke the browser to run this test.
 *   Once the test suite is invoked, it will run and then finish successfully. 
