@@ -21,6 +21,9 @@
 * Backup your existing `json` files in the project folder, and then clone the [repo](https://github.com/schima/e2e) to the same location as your `node_modules` folder of Cypress framework.
 * In the CLI, navigate to root of the project folder and run the following command to start the Cypress Server.
 *   `./node_modules/.bin/cypress open`
+* ![image](https://user-images.githubusercontent.com/20378193/134824568-6f8cd7af-3ae7-4336-b63a-569704595721.png)
 *   This should invoke Cypress application to the frontend, and you will see file called `youtube.spec.js` file.
 *   click on this `youtube.spec.js` file so Cypress can invoke the browser to run this test.
+* ![image](https://user-images.githubusercontent.com/20378193/134824530-8aa9cd77-0572-45cc-9cd1-134a7af8dffc.png)
 *   Once the test suite is invoked, it will run and then finish successfully. 
+* ![image](https://user-images.githubusercontent.com/20378193/134824669-e83dd18f-b63d-4d73-b06f-5af1f2e8a1b4.png)
