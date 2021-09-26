@@ -4,7 +4,7 @@ describe('My First Test', () => {
     // Wait until the search bar is visible
     cy.get('input#search').should('be.visible')
     //Input the text into the search & to slow down text entry so we get results back
-    cy.get('input#search').type('The whole working-from-home thing — ').wait(1000).get('input#search').type('Apple').wait(500)
+    cy.get('input#search').type('The whole working-from-home thing — ').wait(1000).get('input#search').type('Apple').wait(1000)
     //click the first result from the results returned.
     cy.get('li').first().click()
     // wait until loading spinner no longer exists
