@@ -26,4 +26,4 @@
 *   click on this `youtube.spec.js` file so Cypress can invoke the browser to run this test.
 * ![image](https://user-images.githubusercontent.com/20378193/134824530-8aa9cd77-0572-45cc-9cd1-134a7af8dffc.png)
 *   Once the test suite is invoked, it will run and then finish successfully. 
-* ![image](https://user-images.githubusercontent.com/20378193/134824669-e83dd18f-b63d-4d73-b06f-5af1f2e8a1b4.png)
+* ![image](https://user-images.githubusercontent.com/20378193/134825194-d2bcdb04-eb33-4519-89f0-a978956bb609.png)
